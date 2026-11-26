@@ -47,10 +47,8 @@ I enjoy transforming ideas into digital products, learning new technologies, and
 **Building little codes. Creating bigger possibilities.**
 
 ---
----
+--- 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tomosoriayomide&theme=tokyonight&hide_border=true)
 
-[[GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tomosoriayomide&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-[[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomosoriayomide&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomosoriayomide&layout=compact&theme=tokyonight&hide_border=true)
 *Made with 💙 by Dev Lite | Lite Codes*
